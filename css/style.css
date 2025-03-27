@@ -357,6 +357,10 @@ ul {
   height: 1377px;
 }
 
+.box-right {
+  margin-top: 160px;
+}
+
 .box-left-title {
   font-family: "Poppins", sans-serif;
   font-weight: 700;
@@ -469,7 +473,7 @@ ul {
 
 .container-blog {
   text-align: center;
-  margin-top: 140px;
+  margin-top: 230px;
 }
 
 .blog-span {
